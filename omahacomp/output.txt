@@ -1,0 +1,9 @@
+HandB Wins Hi (3-of-a-kind) ; HandB Wins Lo (7652A)
+HandA Wins Hi (Flush) ; No hand qualified for Low
+Split Pot Hi (Straight) ; HandB Wins Lo (8632A)
+HandA Wins Hi (One Pair) ; HandB Wins Lo (7532A)
+Split Pot Hi (Straight) ; Split Pot Lo (5432A)
+Split Pot Hi (Straight) ; Split Pot Lo (5432A)
+HandB Wins Hi (Two Pair) ; HandA Wins Lo (6432A)
+HandB Wins Hi (Two Pair) ; HandB Wins Lo (8632A)
+HandA Wins Hi (Full House) ; No hand qualified for Low
